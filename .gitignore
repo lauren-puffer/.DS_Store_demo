@@ -9,3 +9,6 @@ DS_Store_demo_script
 
 #ignore data
 data_demo.csv
+
+#ignore entire data folder
+data_demo

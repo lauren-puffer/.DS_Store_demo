@@ -25,3 +25,5 @@ data_demo <- data.frame(a = 1:5, b = letters[1:5])
 ```{r}
 write.csv(data_demo, here("data_demo", "data_demo.csv"), row.names = FALSE)
 ```
+
+I don't really know how adding files to .gitignore works since I've done that but I am still seeing them on GitHub. Will likely ask Carmen about this later on.
