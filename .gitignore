@@ -12,3 +12,6 @@ data_demo.csv
 
 #ignore entire data folder
 data_demo
+
+#ignore entire script folder
+script_demo
