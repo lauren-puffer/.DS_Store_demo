@@ -19,3 +19,9 @@ library(janitor)
 ```{r}
 data_demo <- data.frame(a = 1:5, b = letters[1:5])
 ```
+
+# Write csv of data file
+
+```{r}
+write.csv(data_demo, here("data_demo", "data_demo.csv"), row.names = FALSE)
+```

@@ -3,4 +3,8 @@
 .RData
 .Ruserdata
 
+#ignore script
+DS_Store_demo_script
 
+
+#ignore data
