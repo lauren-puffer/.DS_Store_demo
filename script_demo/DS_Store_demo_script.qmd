@@ -1,0 +1,21 @@
+---
+title: "DS_Store_demo_script"
+author: "Lauren Puffer"
+format: html
+editor: visual
+---
+
+# Load libraries
+
+```{r}
+library(tidyverse)
+library(here)
+library(janitor)
+
+```
+
+# Create some dummy data
+
+```{r}
+data_demo <- data.frame(a = 1:5, b = letters[1:5])
+```
