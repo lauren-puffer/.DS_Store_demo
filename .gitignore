@@ -15,3 +15,6 @@ data_demo
 
 #ignore entire script folder
 script_demo/
+
+#Add .DS_Store
+.DS_Store
