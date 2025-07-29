@@ -14,4 +14,4 @@ data_demo.csv
 data_demo
 
 #ignore entire script folder
-script_demo
+script_demo/
